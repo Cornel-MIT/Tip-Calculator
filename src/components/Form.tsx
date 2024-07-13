@@ -1,6 +1,4 @@
 import React from 'react';
-import dollarIcon from '../images/icon-dollar.svg';
-import personIcon from '../images/icon-person.svg';
 
 interface FormProps {
   bill: string;
@@ -31,7 +29,7 @@ const Form: React.FC<FormProps> = ({ bill, setBill, setTip, people, setPeople })
             onInput={(e) => setBill(e.currentTarget.value)}
             value={bill}
           />
-          <img src={dollarIcon} aria-hidden="true" className="icon" />
+          <img src="/icon-dollar.svg" aria-hidden="true" className="icon" />
         </div>
       </div>
 
@@ -81,7 +79,7 @@ const Form: React.FC<FormProps> = ({ bill, setBill, setTip, people, setPeople })
             value={people}
             onInput={(e) => setPeople(e.currentTarget.value)}
           />
-          <img src={personIcon} aria-hidden="true" className="icon" />
+          <img src="/icon-person.svg" aria-hidden="true" className="icon" />
         </div>
       </div>
     </div>
