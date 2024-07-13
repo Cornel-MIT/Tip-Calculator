@@ -1,0 +1,20 @@
+*, *::after, *::before {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+
+:root {
+  --brand : 172 67% 45%;
+  --text : 183 100% 15%;
+  --neutral1 : 186 14% 43%;
+  --neutral2 : 184 14% 56%;
+  --neutral3 : 185 41% 84%;
+  --neutral4 : 189 41% 97%;
+  --white : 179 41% 99%;
+}
+
+body {
+    font-family: 'Space Mono', monospace;
+    font-size: 4px;
+}
