@@ -32,7 +32,6 @@ const App: React.FC = () => {
 
   // Dummy function for handleRadioChange
   const handleRadioChange = () => {
-    // Implement or leave empty depending on future requirements
   };
 
   return (
