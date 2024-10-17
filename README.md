@@ -76,3 +76,9 @@ Currently, two official plugins are available:
 
 
 The live URL = http://localhost:5173/
+
+## Deployment
+- tip-calculator-4zyqqn77b-cornels-projects-c68b3dbd.vercel.app
+
+## Domains
+- URL = tip-calculator-kohl-one.vercel.app
