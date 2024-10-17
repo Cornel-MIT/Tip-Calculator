@@ -81,4 +81,4 @@ The live URL = http://localhost:5173/
 - tip-calculator-4zyqqn77b-cornels-projects-c68b3dbd.vercel.app
 
 ## Domains
-- URL = tip-calculator-kohl-one.vercel.app
+- URL = [tip-calculator-kohl-one.vercel.app](https://tip-calculator-kohl-one.vercel.app/)
