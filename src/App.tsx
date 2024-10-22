@@ -30,7 +30,6 @@ const App: React.FC = () => {
     setTotal(0);
   };
 
-  // Dummy function for handleRadioChange
   const handleRadioChange = () => {
   };
 
